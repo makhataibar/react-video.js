@@ -1,6 +1,6 @@
 {
   "name": "@makhataibar/react-video.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React components for Video.js",
   "main": "index.js",
   "repository": "https://github.com/makhataibar/react-video.js.git",
