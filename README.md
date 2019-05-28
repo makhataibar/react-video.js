@@ -2,15 +2,16 @@ React components for Video.js
 
 ## Installation
 
-yarn add @makhataibar@react-video.js
+yarn add @makhataibar/react-video.js
 
 ## Usage
 
 ```
-import VideoPlayer from '@makhatibar/react-video.js'
+import VideoPlayer from '@makhataibar/react-video.js'
 
 const videoJsOptions = {
   autoplay: true,
+  
   controls: true,
   sources: [{
     src: '/path/to/video.mp4',
